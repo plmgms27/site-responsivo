@@ -2,3 +2,45 @@
 .navbar {
     background-color: #E8F8F5;
 }
+.body {
+    font: 20px Verdana, sans-serif;
+}
+
+.quem-somos {
+    padding-top: 10px;
+    background-color: #f1c70b;
+    font-family: Verdana;
+    font-size: 18px;
+}
+
+.margin {
+    padding-top: 30x;
+    padding-bottom: 10px;
+}
+
+.rounded-circle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.parceiros {
+    padding-top: 10px;
+    background-color: #dddcd5;
+    font-family: Verdana;
+    font-size: 18px;
+}
+
+.servicos {
+    padding-top: 10px;
+    color: white;
+    background-color: #0a3e8d;
+    font-family: Verdana;
+    font-size: 18px;
+}
+
+.bg-footer {
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
